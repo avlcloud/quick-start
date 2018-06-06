@@ -7,7 +7,7 @@ https://cn.portal.availink.com:6210/vnc.html
 ```bash
 $ cd $HOME
 $ mkdir -p mygit
-$ cp /home/public/mygit/models mygit/.
+$ cp -r /home/public/mygit/models mygit/.
 ```
 
 ### start avlcloud/tf-horovod docker
