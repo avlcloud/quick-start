@@ -25,5 +25,4 @@ once you are inside the docker
 $ cd mygit/models/research/ ; source manual_set.sh ; cd object_detection
 $ python3 object_detection_demo_image.py
 ```
-
-![Alt text](image0_result_faster_rcnn_nas_coco_2017_11_08.png?raw=true "result")```
+![Alt text](image0_result_faster_rcnn_nas_coco_2017_11_08.png?raw=true "result")
